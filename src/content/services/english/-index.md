@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Leistungen"
 metaDescription: "This is a example description"
 draft: false
 ---
