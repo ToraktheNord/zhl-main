@@ -11,12 +11,12 @@
       "url": "/#services"
     },
     {
-      "enable": true,
+      "enable": false,
       "name": "Projects",
       "url": "/#projects"
     },
     {
-      "enable": true,
+      "enable": false,
       "name": "Pricing",
       "url": "/#pricing"
     }

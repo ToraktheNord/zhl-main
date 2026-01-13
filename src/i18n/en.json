@@ -8,14 +8,14 @@
     "paginationPortfolioNext": "Next Portfolio"
   },
   "headerOffcanvas": {
-    "description": "We are a digital agency that helps businesses create immersive experiences.",
-    "buttonLabel": "Let’s Talk With Us"
+    "description": "Netzwerkinfrastrukturplanung und Lösungen",
+    "buttonLabel": "Kontakt"
   },
   "navigation": {
     "buttonLabel": "Get Started"
   },
   "footer": {
-    "copyright": "Copyright © {{ year }} by your company / Crafted with [Getastrothemes](https://getastrothemes.com/)",
-    "_comment": "We kindly appreciate it if you retain the theme copyright. Thank you for supporting Getastrothemes!"
+    "copyright": "Copyright © {{ 2025 }} by ZHL-Network-Services",
+    "_comment": ""
   }
 }
