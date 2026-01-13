@@ -1,7 +1,7 @@
 ---
 # For Updating Contact Info Like Email, Phone Number, Address, etc. Please update in `src/config/config.toml` `settings.contactInfo` table
 enable: true # Control the visibility of this section across all pages where it is used
-title: "Let’s Work Together"
+title: "Kontaktieren Sie uns noch heute!"
 description: |
   Wir verbinden Ihr Unternehmen mit stabilen Netzwerklösungen.
 

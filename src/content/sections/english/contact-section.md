@@ -87,7 +87,7 @@ form:
       halfWidth: true
       defaultValue: ""
     - label: ""
-      placeholder: "Subject *"
+      placeholder: "Subject"
       name: "Subject" # This is crucial. Its indicate under which name you want to receive this field data
       required: false
       halfWidth: true
@@ -106,7 +106,7 @@ form:
             value: "Investment Opportunity"
             selected: false
     - label: ""
-      placeholder: "Subject With Search *"
+      placeholder: "Subject With Search"
       name: "Subject With Search" # This is crucial. Its indicate under which name you want to receive this field data
       required: false
       halfWidth: true
@@ -134,14 +134,14 @@ form:
       tag: "textarea"
       defaultValue: ""
       rows: "2" # Only work if tag is textarea
-      placeholder: "How can we help you *"
+      placeholder: "Wie können wir Ihnen helfen?"
       name: "Message" # This is crucial. Its indicate under which name you want to receive this field data
       required: true
       halfWidth: false
     - label: "Google Search" # only valid for type="checkbox" & type === "radio"
       checked: false # only valid for type="checkbox" & type === "radio"
       name: "User Source" # This is crucial. Its indicate under which name you want to receive this field data
-      required: true
+      required: false
       groupLabel: "How did you hear about us?" # Radio Inputs Label
       group: "source" # when you add group then it will omit space between the same group radio input
       type: "radio"
@@ -149,7 +149,7 @@ form:
       defaultValue: ""
     - label: "Social Media" # only valid for type="checkbox" & type === "radio"
       name: "User Source" # This is crucial. Its indicate under which name you want to receive this field data
-      required: true
+      required: false
       groupLabel: "" # Radio Inputs Label
       group: "source" # when you add group then it will omit space between the same group radio input
       type: "radio"
@@ -182,8 +182,8 @@ form:
       defaultValue: ""
     - note: success # info | warning | success | deprecated | hint
       parentClass: "hidden text-sm message success"
-      content: We have received your message! We'll get back to you as soon as possible.
+      content: Wir bedanken uns für die Anfrage und melden uns in Kürze bei Ihnen.
     - note: deprecated # info | warning | success | deprecated | hint
       parentClass: "hidden text-sm message error"
-      content: Something went wrong! please use this mail - [folex-astro-theme@gmail.com](mailto:folex-astro-theme@gmail.com) to submit a ticket!
+      content: Hier ist was falsch gegangen! Bitte kontaktieren Sie uns unter - [office@zhl-network-services.org](mailto:office@zhl-network-services.org
 ---
