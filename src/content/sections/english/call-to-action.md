@@ -9,7 +9,7 @@ button:
   enable: true
   variant: "fill" # Options: "fill" | "outline" | "text" | "circle"
   label: "Kontaktieren Sie uns noch heute!"
-  url: "/"
+  url: "/#footer-with-contact"
   rel: ""
   target: ""
 
