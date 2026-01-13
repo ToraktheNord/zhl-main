@@ -10,12 +10,9 @@
   "headerOffcanvas": {
     "description": "Netzwerkinfrastrukturplanung und Lösungen",
     "buttonLabel": "Kontakt"
-	"url": "/#footer-with-contact"
-	"href": "https://zhl-network-services.org/#footer-with-contact"
   },
   "navigation": {
     "buttonLabel": "Anfrage"
-	"url": "/#footer-with-contact"
   },
   "footer": {
     "copyright": "Copyright © 2025 by ZHL-Network-Services",
