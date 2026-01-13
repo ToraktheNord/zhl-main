@@ -160,5 +160,5 @@ form:
       content: Wir bedanken uns für die Anfrage und melden uns in Kürze bei Ihnen.
     - note: deprecated # info | warning | success | deprecated | hint
       parentClass: "hidden text-sm message error"
-      content: Hier ist was falsch gegangen! Bitte kontaktieren Sie uns unter - [office@zhl-network-services.org](mailto:office@zhl-network-services.org
+      content: Hier ist was falsch gegangen! Bitte kontaktieren Sie uns unter - [office@zhl-network-services.org](mailto:office@zhl-network-services.org)
 ---
