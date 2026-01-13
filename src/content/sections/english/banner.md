@@ -3,7 +3,7 @@
 
 enable: true # Control the visibility of this section across all pages where it is used
 titleSize: "display-2" # If your title text is larger, use a smaller text size like "display-3", "display-2", or "display-1".
-title: "EDV Services - Network Infrastructure - Network Planning"
+title: "Wir verbinden Ihr Unternehmen mit stabilen Netzwerklösungen."
 
 image: "/images/banner/startup.png"
 description: "Als EDV-/IT-Dienstleister planen, implementieren und betreiben wir stabile Netzwerk- und IT-Infrastrukturen – zuverlässig und sicher"

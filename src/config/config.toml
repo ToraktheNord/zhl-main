@@ -83,14 +83,14 @@
     # Run `npm run remove-multilingual` for removing multilingual content files after disabling the feature.
     enable               = true
     defaultLanguage      = "en"
-    disableLanguages     = [] # List of languages to disable (eg: ["fr", "es"])
+    disableLanguages     = [e] # List of languages to disable (eg: ["fr", "es"])
     showDefaultLangInUrl = false # Show default language in URL (eg: https://getastrothemes.com/en/)
 
   # Global Contact Information
   [settings.contactInfo]
-    address = "27 Division St, New York, <br /> NY 10002, USA"
-    email   = "[folex.agency@mail.com](mailto:folex.agency@mail.com)"
-    phone   = "[+1 800 123 654 987](tel:+1800123654987)"
+    address = "Münzgrabenstraße 173b, 8010 Graz"
+    email   = "[office@zhl-network-services.org](mailto:office@zhl-network-services.org)"
+    phone   = ""
 
   # Header Offcanvas Configuration
   # Update social links in `src/config/social.json`
