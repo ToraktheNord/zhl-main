@@ -1,13 +1,13 @@
 ---
 enable: true # Control the visibility of this section across all pages where it is used
-title: "Have Any Project on Your Mind?"
-description: "Great! We're excited to hear from you and let's start something"
+title: "Kontaktieren Sie uns!"
+description: ""
 
 # image: "/images/about-us/about-one.jpg"
 # imagePosition: "left" # Choose between "left" or "right"
 
 map:
-  enable: true
+  enable: false
   position: "right" # Choose between "left" or "right"
   title: "Map of New Work City"
   url: https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed # Embed map iframe URL generated from https://www.maps.ie/create-google-map/
@@ -74,7 +74,7 @@ form:
   #   Your data is safe with us. We respect your privacy and never share your information. <br /> Read our [Privacy Policy](/privacy-policy/).
   inputs:
     - label: ""
-      placeholder: "Full Name *"
+      placeholder: "Name *"
       name: "Full Name" # This is crucial. Its indicate under which name you want to receive this field data
       required: true
       halfWidth: true
@@ -87,8 +87,8 @@ form:
       halfWidth: true
       defaultValue: ""
     - label: ""
-      placeholder: "Subject"
-      name: "Subject" # This is crucial. Its indicate under which name you want to receive this field data
+      placeholder: "Betreff"
+      name: "Betreff" # This is crucial. Its indicate under which name you want to receive this field data
       required: false
       halfWidth: true
       dropdown:
@@ -104,31 +104,6 @@ form:
             selected: false
           - label: "Investment Opportunity"
             value: "Investment Opportunity"
-            selected: false
-    - label: ""
-      placeholder: "Subject With Search"
-      name: "Subject With Search" # This is crucial. Its indicate under which name you want to receive this field data
-      required: false
-      halfWidth: true
-      dropdown:
-        type: "search" # select | search - default is select
-        search: # if type is search then it will work
-          placeholder: "Subject With Search"
-        items:
-          - label: "General Inquiry"
-            value: "General Inquiry"
-            selected: false
-          - label: "Partnership Opportunity"
-            value: "Partnership Opportunity"
-            selected: false
-          - label: "Career Opportunity"
-            value: "Career Opportunity"
-            selected: false
-          - label: "Investment Opportunity"
-            value: "Investment Opportunity"
-            selected: false
-          - label: "Media Inquiry"
-            value: "Media Inquiry"
             selected: false
     - label: ""
       tag: "textarea"
