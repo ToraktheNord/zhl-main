@@ -3,12 +3,12 @@
 enable: true # Control the visibility of this section across all pages where it is used
 title: "Let’s Work Together"
 description: |
-  We are digital agency that helps businesses develop immersive and engaging user experiences
+  Wir verbinden Ihr Unternehmen mit stabilen Netzwerklösungen.
 
 button:
   enable: true
   variant: "fill" # Options: "fill" | "outline" | "text" | "circle"
-  label: "Let’s Talk with us"
+  label: "Kontaktieren Sie uns noch heute!"
   url: "/"
   rel: ""
   target: ""
