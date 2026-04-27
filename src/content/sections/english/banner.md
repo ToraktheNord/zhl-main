@@ -6,7 +6,7 @@ titleSize: "display-2" # If your title text is larger, use a smaller text size l
 title: "Wir verbinden Ihr Unternehmen mit stabilen Netzwerklösungen."
 
 image: "/images/banner/startup.png"
-description: "Als EDV-/IT-Dienstleister planen, implementieren und betreiben wir stabile Netzwerk- und IT-Infrastrukturen – zuverlässig und sicher"
+description: "Als EDV-/IT-Dienstleister für L1 - Technical Support helfen wir Ihnen bei End-User System Infrastruktur sowie Support"
 
 button:
   # Refer to the `sharedButton` schema in `src/sections.schema.ts` for all available configuration options (e.g., enable, label, url, hoverEffect, variant, icon, tag, rel, class, target, etc.)
